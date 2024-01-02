@@ -25,6 +25,9 @@ The primary hypothesis tested in this project is that the spiral arms of M51, pa
 - scikit-image
 
 
+## Dataset: 
+https://www.kaggle.com/datasets/brsdincer/center-of-all-observable-galaxiesfits-allesa
+
 ## Image Processing
 The analysis involves various image processing techniques, including median filtering, Sobel filtering, Meijering filtering, and Hessian filtering, to highlight morphological features and gravitational interactions.
 
